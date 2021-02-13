@@ -1,0 +1,53 @@
+h1{
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+h2{
+	padding-top : 25px;
+	padding-left: 10%;
+    padding-right: 10%;
+}
+
+h4{
+	padding-left: 10%;
+    padding-right: 10%;
+	padding-top: 20px;
+}
+
+h1, h2, h3, h4, h5, h6, th {
+    text-transform: none !important;
+	letter-spacing: 1px !important;
+}
+
+td{
+    margin: 2px;
+	vertical-align: middle !important;
+}
+
+tbody{
+	height:50px
+}
+
+#tableau{
+	padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 20px;
+    text-align: center;
+}
+
+th {
+	font-size: 0.9rem !important;
+}
+
+th, td{
+    text-align: center;
+}
+
+#photo{
+    width: 100%;
+    max-width: 100%;
+    height : 100%;
+}
